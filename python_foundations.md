@@ -34,6 +34,13 @@ As a result of this learning path, I was able to create the following projects:
 
 1. ([Password Validator] (https://github.com/raybrowndev/password_validator/tree/main))
 2. ([Password Manager] (https://github.com/raybrowndev/password_manager_2/tree/main))
+This [website (https://stackoverflow.com)][website] is awesome.
+
+You will never use anything else than this [website].
+
+Check out <https://stackoverflow.com> for more fun.
+
+[website]: https://stackoverflow.com
 
 ## Reflection
 
