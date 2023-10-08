@@ -32,8 +32,8 @@ To achieve these objectives, I carried out the following challenges:
 
 As a result of this learning path, I was able to create the following projects:
 
-1. ([Password Validator] (https://github.com/raybrowndev/password_validator/tree/main))
-2. ([Password Manager] (https://github.com/raybrowndev/password_manager_2/tree/main))
+1. [Password Validator](https://github.com/raybrowndev/password_validator/tree/main)
+2. [Password Manager (https://github.com/raybrowndev/password_manager_2/tree/main)][Password Manager]
 This [website (https://stackoverflow.com)][website] is awesome.
 
 You will never use anything else than this [website].
